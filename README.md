@@ -14,13 +14,11 @@
   <img align="right" alt="Luca-pic" src="https://cdn.discordapp.com/attachments/850151100790210610/930463768775897128/Design_sem_nome.gif>
 </div>
   
-##
- 
-<div> 
+  ##
+                                       
+<div>                                         
   <a href="https://instagram.com/luca_steffano" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "lucahesper@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luca-destefano-boer-99674121b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
