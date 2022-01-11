@@ -1,5 +1,9 @@
 ## Eai como vai? Me chamo Luca, muito prazer ^_^
 
+-> Estou a procura de cada vez mais conhecimento, sempre estudando e conduzindo alguns projetinhos por aí.
+
+-> Sinta-se a vontade por aqui ✌
+
 <div align="center">
   <a href="https://github.com/lucadboer">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=lucadboer&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
