@@ -1,5 +1,4 @@
-## Eaii como vai? Me chamo Luca, sou um Desenvolvedor Front-end, e estou estudando para ser um Ethical Hacker ^_^
-
+## Eaii me chamo Luca, sou um Desenvolvedor Front-end, e futuro Ethical Hacker ^_^
 
 <div align="center">
   <a href="https://github.com/lucadboer">
