@@ -1,6 +1,7 @@
 ## Eaii como vai? Me chamo Luca!
 
 --> Sou um Desenvolvedor Front-end, e futuro Ethical Hacker ^_^
+--> I'm a Front-end Developer, and future Ethical Hacker ^_^
 
 <div align="center">
   <a href="https://github.com/lucadboer">
