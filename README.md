@@ -4,7 +4,7 @@
 <br>
 --> I'm a Front-end Developer, and future Ethical Hacker ^_^
 
-<div align="center">
+<div>
   <a href="https://github.com/lucadboer">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucadboer&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucadboer&layout=compact&langs_count=7&theme=midnight-purple"/>
