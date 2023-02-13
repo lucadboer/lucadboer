@@ -1,8 +1,17 @@
 ## Hello World! ☕
 
---> Sou um Desenvolvedor Front-end, e futuro Ethical Hacker ^_^
-<br>
---> I'm a Front-end Developer, and future Ethical Hacker ^_^
+```javascript
+object luca {
+ name : "Luca Destefano Boer",
+ age : 20,
+ acknowledgements : "Fullstack",
+ code : ["Javascript", "HTML", "CSS", "Typescript"],
+ tools : [
+ "React", "React Native", "Next.js", "Redux", "TypeScript",
+ "Git", "Styled-components", "Stitches", "Tailwind", "Jest", "Node.js"
+ ],
+ skillset : ["Ambição", "Foco", "Disciplina"],
+```
 
 <div>
   <a href="https://github.com/lucadboer">
