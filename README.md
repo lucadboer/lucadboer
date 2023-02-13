@@ -1,6 +1,6 @@
 ## Hello World! ☕
 
-<img align="right" width="400" src="./background.gif" />
+<img align="right" width="350" src="./background.gif" />
 
 ```javascript
 object luca {
@@ -14,6 +14,7 @@ object luca {
  ],
  skillset : ["Ambição", "Foco", "Disciplina"],
 ```
+<br>
 
 <div>
   <a href="https://github.com/lucadboer">
