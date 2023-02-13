@@ -1,5 +1,7 @@
 ## Hello World! ☕
 
+<img align="right" width="400" src="./background.gif" />
+
 ```javascript
 object luca {
  name : "Luca Destefano Boer",
