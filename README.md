@@ -10,7 +10,8 @@ object luca {
  code : ["Javascript", "HTML", "CSS", "Typescript"],
  tools : [
  "React", "React Native", "Next.js", "Redux", "TypeScript",
- "Git", "Styled-components", "Stitches", "Tailwind", "Jest", "Node.js", "Prisma"
+ "Git", "Styled-components", "Stitches", "Tailwind", "Jest", 
+ "Node.js", "Prisma"
  ],
  skillset : ["Ambição", "Foco", "Disciplina"],
 ```
