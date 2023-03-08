@@ -11,7 +11,7 @@ object luca {
  tools : [
  "React", "React Native", "Next.js", "Redux", "TypeScript",
  "Git", "Styled-components", "Stitches", "Tailwind", "Jest", 
- "Node.js", "Prisma"
+ "Node.js", "Prisma", "Fastify"
  ],
  skillset : ["Ambição", "Foco", "Disciplina"],
 ```
