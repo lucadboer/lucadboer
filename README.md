@@ -13,7 +13,7 @@ object luca {
  "Git", "Styled-components", "Stitches", "Tailwind", "Jest", 
  "Node.js", "Prisma", "Fastify", "Docker", "PostgreSQL"
  ],
- skillset : ["Ambição", "Foco", "Disciplina"],
+ skillset : ["Ambição", "Foco", "Disciplina" e "Proatividade"],
 ```
 <br>
 
