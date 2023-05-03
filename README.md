@@ -14,7 +14,7 @@ object luca {
  "Node.js", "Prisma", "Fastify", "Docker", "PostgreSQL"
  ],
  skillset : ["Ambição", "Foco", "Disciplina", "Proatividade"],
- learning : ["Go"],
+ learning : ["Go", "DDD"],
 ```
 <br>
 
