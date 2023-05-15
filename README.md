@@ -11,7 +11,7 @@ object luca {
  tools : [
  "React", "React Native", "Next.js", "Redux", "TypeScript",
  "Git", "Styled-components", "Stitches", "Tailwind", "Jest", 
- "Node.js", "Prisma", "Fastify", "Docker", "PostgreSQL"
+ "Node.js", "Prisma", "Fastify", "Docker", "PostgreSQL", "Mobile"
  ],
  skillset : ["Ambição", "Foco", "Disciplina", "Proatividade"],
  learning : ["Go", "DDD"],
