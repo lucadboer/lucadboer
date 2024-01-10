@@ -30,12 +30,3 @@ object luca {
   <img align="center" alt="Luca-Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
   <img align="center" alt="Luca-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="right" alt="Luca-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/850151100790210610/930470498364715038/Design_sem_nome.gif">                                                                   </div> 
-  
-  ##
-  
-<div>
-  <a href="https://about-luca.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/luca_steffano" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/luca-destefano-boer-99674121b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
-  
