@@ -5,12 +5,11 @@
 ```javascript
 object luca {
  name : "Luca Destefano Boer",
- age : 20,
- acknowledgements : "Fullstack",
+ age : 21,
+ acknowledgements : "Backend",
  code : ["Javascript", "Typescript", "Go"],
- tools : ["React Native", "Node.js", "Docker", "PostgreSQL", "Mobile", "Git", "Jest"],
- skillset : ["Ambição", "Foco", "Disciplina", "Proatividade"],
- learning : ["Go"],
+ tools : ["Node.js", "Golang", "SQL", "NoSQL", "AWS", "RabbitMQ", "Solidity"],
+ learning : ["Blockchain"],
 }
 ```
 <br>
@@ -22,6 +21,6 @@ object luca {
   <img align="center" alt="Luca-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Luca-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
   <img align="center" alt="Luca-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Luca-Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg">
-  <img align="center" alt="Luca-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 </div> 
