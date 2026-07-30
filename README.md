@@ -2,35 +2,35 @@
 
 <img align="right" width="280" src="https://raw.githubusercontent.com/lucadboer/lucadboer/main/background.gif" alt="" />
 
-`senior fullstack engineer` · `typescript + go` · `remote`
+`senior fullstack engineer` · `typescript · go · react` · `remote`
 
-I build multi-tenant **AI agent platforms** and the internal tooling that keeps
-them observable in production.
+I ship products end to end — React/Next front ends, Node and Go services, and
+the applied-AI systems and internal tooling behind them.
 
 ```console
 $ whoami
 luca destefano boer — senior fullstack software engineer
-$ currently
-agent orchestration · rag pipelines · developer tooling
+$ focus
+fullstack product · backend apis · applied ai
 $ shipping-on
-aws · kubernetes · postgres
+typescript · go · react/next · postgres · aws · kubernetes
 ```
 
 ## `~/` what i work on
 
 ```
-agent platforms   multi-tenant orchestration, tool calling, evals,
-                  keeping cost and latency inside a budget
-rag pipelines     ingestion → embeddings → retrieval → the eval loop that
-                  tells you whether retrieval actually improved anything
-dev tooling       internal platforms that shorten the local feedback loop
-infra             otel tracing, deploy gates, go/node services on k8s
+product surfaces   react + next.js front ends, design systems, react native
+backend services   node and go apis — rest, grpc, graphql, event-driven
+applied ai         multi-tenant agent platforms, rag pipelines, evals,
+                   keeping cost and latency inside a budget
+dev tooling        internal platforms that shorten the local feedback loop
+infra & ci/cd      otel tracing, deploy gates, go/node services on k8s
 ```
 
 ## `~/` selected projects
 
 **[supabase-studio-local](https://github.com/lucadboer/supabase-studio-local)** · `typescript` `next.js` `docker`<br>
-Supabase Studio pointed at any Postgres container on your Docker host. No self-hosted stack to boot.
+Next.js Studio UI plus a Docker discovery layer, pointed at any Postgres container on your host. No self-hosted stack to boot.
 
 **[recepia](https://github.com/lucadboer/recepia)** · `typescript` `node` `postgres`<br>
 Autonomous WhatsApp appointment booking for dental clinics. Atomic holds, no overbooking, escalation to a human.
@@ -47,15 +47,16 @@ Gym check-in API with geofencing and RBAC. Each e2e test file gets its own Postg
 **[Memory-Marvel-Game](https://github.com/lucadboer/Memory-Marvel-Game)** · `javascript` `html` `css`<br>
 A Marvel memory game in vanilla JS. Just for fun.
 
-> Most of my production AI and platform work lives in private employer and client
-> repositories, so it isn't linked here. Happy to walk through it in a conversation.
+> Most of my production work — multi-tenant platforms, agent systems, the front
+> ends on top of them — lives in private employer and client repositories, so it
+> isn't linked here. Happy to walk through it in a conversation.
 
 ## `~/` stack
 
 ```
 languages   typescript · go · python · javascript
+frontend    react · next.js · react native · tailwind · design systems
 backend     node · fastify · nestjs · chi · grpc · graphql
-frontend    react · next · react native · tailwind
 data        postgres · mongo · redis · prisma · rabbitmq · kafka
 cloud       aws · gcp · kubernetes · docker · actions · opentelemetry
 ai          langgraph · mcp · rag · evals · openai · anthropic
