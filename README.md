@@ -1,6 +1,6 @@
-<img align="right" width="300" src="./background.gif" alt="" />
-
 # luca boer
+
+<img align="right" width="280" src="https://raw.githubusercontent.com/lucadboer/lucadboer/main/background.gif" alt="" />
 
 `senior fullstack engineer` · `typescript + go` · `remote`
 
@@ -16,8 +16,6 @@ $ shipping-on
 aws · kubernetes · postgres
 ```
 
-<br clear="right" />
-
 ## `~/` what i work on
 
 ```
@@ -31,23 +29,23 @@ infra             otel tracing, deploy gates, go/node services on k8s
 
 ## `~/` selected projects
 
-**[supabase-studio-local](https://github.com/lucadboer/supabase-studio-local)** — Supabase Studio pointed at any Postgres container on your Docker host. No self-hosted stack to boot.
-`typescript` `next.js` `docker`
+**[supabase-studio-local](https://github.com/lucadboer/supabase-studio-local)** · `typescript` `next.js` `docker`<br>
+Supabase Studio pointed at any Postgres container on your Docker host. No self-hosted stack to boot.
 
-**[recepia](https://github.com/lucadboer/recepia)** — Autonomous WhatsApp appointment booking for dental clinics. Atomic holds, no overbooking, escalation to a human.
-`typescript` `node` `postgres`
+**[recepia](https://github.com/lucadboer/recepia)** · `typescript` `node` `postgres`<br>
+Autonomous WhatsApp appointment booking for dental clinics. Atomic holds, no overbooking, escalation to a human.
 
-**[clean-arch-go](https://github.com/lucadboer/clean-arch-go)** — The same use cases exposed over REST, gRPC and GraphQL behind Clean Architecture.
-`go` `wire` `gqlgen` `grpc`
+**[clean-arch-go](https://github.com/lucadboer/clean-arch-go)** · `go` `wire` `gqlgen` `grpc`<br>
+The same use cases exposed over REST, gRPC and GraphQL behind Clean Architecture.
 
-**[rate-limiter-go](https://github.com/lucadboer/rate-limiter-go)** — HTTP middleware limiting by API token or IP, counters in Redis behind a swappable interface.
-`go` `redis`
+**[rate-limiter-go](https://github.com/lucadboer/rate-limiter-go)** · `go` `redis`<br>
+HTTP middleware limiting by API token or IP, counters in Redis behind a swappable interface.
 
-**[gympass-api](https://github.com/lucadboer/gympass-api)** — Gym check-in API with geofencing and RBAC. Each e2e test file gets its own Postgres schema.
-`typescript` `fastify` `prisma` `vitest`
+**[gympass-api](https://github.com/lucadboer/gympass-api)** · `typescript` `fastify` `prisma` `vitest`<br>
+Gym check-in API with geofencing and RBAC. Each e2e test file gets its own Postgres schema.
 
-**[Memory-Marvel-Game](https://github.com/lucadboer/Memory-Marvel-Game)** — A Marvel memory game in vanilla JS. Just for fun.
-`javascript` `html` `css`
+**[Memory-Marvel-Game](https://github.com/lucadboer/Memory-Marvel-Game)** · `javascript` `html` `css`<br>
+A Marvel memory game in vanilla JS. Just for fun.
 
 > Most of my production AI and platform work lives in private employer and client
 > repositories, so it isn't linked here. Happy to walk through it in a conversation.
