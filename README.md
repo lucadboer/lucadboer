@@ -1,17 +1,18 @@
 # luca boer
-
 <img align="right" width="280" src="https://raw.githubusercontent.com/lucadboer/lucadboer/main/background.gif" alt="" />
 
-`senior fullstack engineer` · `typescript · go · react` · `remote`
+`senior software engineer` · `node · go · applied ai` · `remote`
 
-I ship products end to end — React/Next front ends, Node and Go services, and
-the applied-AI systems and internal tooling behind them.
+I ship products end to end — React/Next front ends, Node and Go services,
+and the applied-AI systems and internal tooling behind them.
 
 ```console
 $ whoami
-luca destefano boer — senior fullstack software engineer
+luca destefano boer — senior software engineer
+
 $ focus
-fullstack product · backend apis · applied ai
+backend apis · applied ai · fullstack product
+
 $ shipping-on
 typescript · go · react/next · postgres · aws · kubernetes
 ```
@@ -19,12 +20,13 @@ typescript · go · react/next · postgres · aws · kubernetes
 ## `~/` what i work on
 
 ```
-product surfaces   react + next.js front ends, design systems, react native
-backend services   node and go apis — rest, grpc, graphql, event-driven
-applied ai         multi-tenant agent platforms, rag pipelines, evals,
-                   keeping cost and latency inside a budget
-dev tooling        internal platforms that shorten the local feedback loop
-infra & ci/cd      otel tracing, deploy gates, go/node services on k8s
+backend services   node and go apis — rest, grpc, event-driven, queues
+applied ai         multi-tenant agent platforms, rag pipelines, mcp servers,
+                   guardrails for sensitive data, offline evals
+product surfaces   react + next.js front ends, streaming uis, react native
+dev tooling        internal platforms that shorten the feedback loop —
+                   observability mcp server, alert routing, reusable ci/cd
+infra & ops        k8s, helm, argocd, terraform, grafana/prometheus/datadog
 ```
 
 ## `~/` selected projects
@@ -47,19 +49,21 @@ Gym check-in API with geofencing and RBAC. Each e2e test file gets its own Postg
 **[Memory-Marvel-Game](https://github.com/lucadboer/Memory-Marvel-Game)** · `javascript` `html` `css`<br>
 A Marvel memory game in vanilla JS. Just for fun.
 
-> Most of my production work — multi-tenant platforms, agent systems, the front
-> ends on top of them — lives in private employer and client repositories, so it
-> isn't linked here. Happy to walk through it in a conversation.
+> Most of my production work — multi-tenant agent platforms, rag and eval
+> pipelines, the front ends and internal tooling on top of them — lives in
+> private employer and client repositories, so it isn't linked here.
 
 ## `~/` stack
 
 ```
-languages   typescript · go · python · javascript
-frontend    react · next.js · react native · tailwind · design systems
-backend     node · fastify · nestjs · chi · grpc · graphql
-data        postgres · mongo · redis · prisma · rabbitmq · kafka
-cloud       aws · gcp · kubernetes · docker · actions · opentelemetry
-ai          langgraph · mcp · rag · evals · openai · anthropic
+languages   go · typescript · node · python · rust · sql
+backend     rest · grpc · nestjs · express · fastify · queues · streaming
+frontend    react · next.js · vue · react native · tailwind · shadcn/ui
+data        postgres · redis · mongo · clickhouse · prisma · vector stores
+cloud       aws · gcp · kubernetes · helm · argocd · terraform · docker
+observ.     grafana · prometheus · datadog · otel · alert routing
+ai          rag · mcp servers · function calling · guardrails · evals
+            openai · anthropic · gemini · langchain
 ```
 
 ## `~/` contact
