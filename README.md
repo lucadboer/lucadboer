@@ -21,8 +21,8 @@ typescript · go · react/next · postgres · aws · kubernetes
 
 ```
 backend services   node and go apis — rest, grpc, event-driven, queues
-applied ai         multi-tenant agent platforms, rag pipelines, mcp servers,
-                   guardrails for sensitive data, offline evals
+applied ai         multi-tenant agent platforms, real-time voice agents,
+                   rag pipelines, mcp servers, guardrails, offline evals
 product surfaces   react + next.js front ends, streaming uis, react native
 dev tooling        internal platforms that shorten the feedback loop —
                    observability mcp server, alert routing, reusable ci/cd
@@ -31,11 +31,11 @@ infra & ops        k8s, helm, argocd, terraform, grafana/prometheus/datadog
 
 ## `~/` selected projects
 
+**[recepia](https://github.com/lucadboer/recepia)** · `typescript` `node` `postgres` `agents`<br>
+An agent that books routine dental appointments over WhatsApp and hands anything unusual to reception. Built spec-first, starting with the part most agent demos skip: deterministic, tested tools the agent will call, with atomic holds that prevent double booking under concurrency, no confirmation without a written calendar event, and an append-only audit log. The LLM layer goes on top of those guarantees.
+
 **[supabase-studio-local](https://github.com/lucadboer/supabase-studio-local)** · `typescript` `next.js` `docker`<br>
 Next.js Studio UI plus a Docker discovery layer, pointed at any Postgres container on your host. No self-hosted stack to boot.
-
-**[recepia](https://github.com/lucadboer/recepia)** · `typescript` `node` `postgres`<br>
-Autonomous WhatsApp appointment booking for dental clinics. Atomic holds, no overbooking, escalation to a human.
 
 **[clean-arch-go](https://github.com/lucadboer/clean-arch-go)** · `go` `wire` `gqlgen` `grpc`<br>
 The same use cases exposed over REST, gRPC and GraphQL behind Clean Architecture.
@@ -63,10 +63,10 @@ data        postgres · redis · mongo · clickhouse · prisma · vector stores
 cloud       aws · gcp · kubernetes · helm · argocd · terraform · docker
 observ.     grafana · prometheus · datadog · otel · alert routing
 ai          rag · mcp servers · function calling · guardrails · evals
-            openai · anthropic · gemini · langchain
+            openai · anthropic · gemini · langchain · livekit agents · elevenlabs
 ```
 
 ## `~/` contact
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-0a0a0a?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luca-destefano-boer/)
-[![Email](https://img.shields.io/badge/luca.boer@outlook.com-0a0a0a?style=flat-square&logo=maildotru&logoColor=white)](mailto:luca.boer@outlook.com)
+[![Email](https://img.shields.io/badge/lucadestefanoboer@gmail.com-0a0a0a?style=flat-square&logo=gmail&logoColor=white)](mailto:lucadestefanoboer@gmail.com)
