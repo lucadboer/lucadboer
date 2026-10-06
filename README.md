@@ -32,7 +32,7 @@ infra & ops        k8s, helm, argocd, terraform, grafana/prometheus/datadog
 ## `~/` selected projects
 
 **[recepia](https://github.com/lucadboer/recepia)** · `typescript` `node` `postgres` `agents`<br>
-An agent that books routine dental appointments over WhatsApp and hands anything unusual to reception. Built spec-first, starting with the part most agent demos skip: deterministic, tested tools the agent will call, with atomic holds that prevent double booking under concurrency, no confirmation without a written calendar event, and an append-only audit log. The LLM layer goes on top of those guarantees.
+An agent that books routine dental appointments over WhatsApp and hands anything unusual to reception. Built spec-first, starting with the part most agent demos skip: deterministic, tested tools the agent will call, with atomic holds that prevent double booking under concurrency, no confirmation without a written calendar event, and an append-only audit log. A Claude tool-calling agent runs on top, restricted to a closed tool allowlist, allowed to hold only slots it offered and to confirm only holds it made, with a consent gate before any booking.
 
 **[supabase-studio-local](https://github.com/lucadboer/supabase-studio-local)** · `typescript` `next.js` `docker`<br>
 Next.js Studio UI plus a Docker discovery layer, pointed at any Postgres container on your host. No self-hosted stack to boot.
